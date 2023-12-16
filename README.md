@@ -11,9 +11,3 @@ Links to the README.md's for each lab here:
 
 [Lab 4. Ph-UI!!!](https://github.com/jaxriemer/Interactive-Lab-Hub/tree/Fall2022/Lab%204#readme)
 
-[Lab 5. Observant Systems](https://github.com/jaxriemer/Interactive-Lab-Hub/blob/5a82cba7bc1b0509230a89b47371e53afbaebd90/Lab%205/README.md)
-
-[Lab 6. Little Interactions Everywhere](https://github.com/jaxriemer/Interactive-Lab-Hub/blob/5a82cba7bc1b0509230a89b47371e53afbaebd90/Lab%206/README.md)
-
-[Final Project](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2021Fall/FinalProject.md)<!--[](Final%20Project/)-->
-
